@@ -7,7 +7,7 @@ données, Express pour l'API backend, React pour le frontend, et Nginx pour serv
 React et faire du reverse proxy vers l'API Express.
 
 # Depot Git
-Pour commencer, nous allons cloner le depot git avec la commande *git clone https://github.com/yassin312/TP_Docker_MERN/* et y accéder avec cd <TP_Docker_MERN>
+Pour commencer, nous allons cloner le depot git avec la commande *git clone https://github.com/yassin312/TP_Docker_MERN/* et y accéder avec cd TP_Docker_MERN
 
 # Lancement des conteneurs
 Pour la création des conteneurs, il suffira de lancer la commande docker-compose up (-d) afin de build les différents conteneurs (Front, Back, BD et nginx)
